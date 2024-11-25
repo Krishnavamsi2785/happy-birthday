@@ -120,14 +120,14 @@ body {
   display: inline-block;
   max-width: 50%;
   height:50%;
-  height: auto;
+  
 }
 
 .six .hat {
   position: absolute;
-  width: 80px;
-  top: -35px;
-  left: 41.5%;
+  width: 150px;
+  top: -30px;
+  left: 50%;
   /* transform: scale(0.1); */
 }
 
